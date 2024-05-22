@@ -129,3 +129,5 @@ fabric.properties
 .history
 
 # End of https://www.gitignore.io/api/macos,pycharm,jupyternotebook,visualstudiocode
+
+/your-code/sentiment140.csv
